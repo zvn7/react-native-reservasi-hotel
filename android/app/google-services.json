@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "908812410143",
+    "project_id": "ujk-react-native-fcm",
+    "storage_bucket": "ujk-react-native-fcm.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:908812410143:android:876dae20af27b147ede42a",
+        "android_client_info": {
+          "package_name": "com.myapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzSHQbQshfaiBZe5yRvDQtJf2jJfsGcQg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
